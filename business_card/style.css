@@ -1,0 +1,21 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ram_img{
+    width: 150px;
+}
+
+.card{
+    padding: 20px;
+    display: flex; /* disply: flex is by default display block*/
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #ddebf8;
+    color: #2b2839;
+    border-bottom: 6px solid #d8cefe;
+
+}
